@@ -16,3 +16,10 @@ The analysis focuses on answering critical investment questions using optimized 
 
 
 
+
+
+🤝 Contribution
+*Feel free to suggest improvements, especially regarding:
+*Adding the S&P 500 benchmark data for Beta and comparative analysis.
+*Integrating Sector data for industry-specific comparison.
+*Optimizing DAX measures for financial metrics like the Sharpe Ratio.
