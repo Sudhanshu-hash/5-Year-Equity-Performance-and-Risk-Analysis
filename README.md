@@ -6,3 +6,13 @@ This project provides a comprehensive financial analysis of over 500 S&P 500 sto
 2. Data Engineering: Python (pandas, numpy, sqlalchemy).
 3. Database: MySQL.
 4. Visualization: Power BI.
+
+***(SQL Queries & Dashboard Content)***
+The analysis focuses on answering critical investment questions using optimized SQL queries:
+1. Top Performers : Ranking stocks by Cumulative Return and comparing them to Volatility.
+2. Risk vs. Reward : Using a scatter plot to map Volatility against Average Daily Return .
+3. Annual Trends: Year-over-year performance tracking for top stocks (e.g., NVDA, NFLX) to assess consistency.
+4. Outlier Detection : Identifying the Top 10 Highest Volume Trading Days for key stocks to investigate major market events.
+
+
+
