@@ -18,7 +18,8 @@ The analysis focuses on answering critical investment questions using optimized 
 
 
 
-***🤝 Contribution***
+**🤝 Contribution**
+
 *Feel free to suggest improvements, especially regarding:
 
 *Adding the S&P 500 benchmark data for Beta and comparative analysis.
