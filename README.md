@@ -27,7 +27,7 @@ The analysis focuses on answering critical investment questions using optimized 
 
 *Optimizing DAX measures for financial metrics like the Sharpe Ratio.
 ---
-5. ***Connect with Me***
+5. **Connect with Me**
 
 If you have any questions about this project, want to discuss data strategy, or are interested in collaboration, feel free to connect!
 
